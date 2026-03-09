@@ -165,16 +165,6 @@ La aplicación se ejecuta lanzando la clase `Main.java`.
 
 ---
 
-## 📌 Requisitos cumplidos
-
-- Función que convierte números en la cadena pedida
-- Impresión del resultado desde main
-- Tests implementados y funcionando
-- Evidencia de tests en el README
-- Aplicación imprimiendo correctamente la secuencia
-
----
-
 ## 👨‍💻 Autor
 
 **David Navarro**
