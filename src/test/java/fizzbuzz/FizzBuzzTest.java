@@ -18,4 +18,10 @@ public class FizzBuzzTest {
         Main main = new Main();
         assertEquals("2", main.convert(2));
     }
+
+    @Test
+    void shouldReturnFizzWhenInputIs3() {
+        Main main = new Main();
+        assertEquals("Fizz", main.convert(3));
+    }
 }
