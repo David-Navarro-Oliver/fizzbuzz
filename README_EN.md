@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status Completed">
 </p>
 
+<p align="center">
+  <a href="./README.md">Leer este README en español</a>
+</p>
+
 ---
 
 ## 📘 Description
